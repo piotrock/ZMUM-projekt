@@ -38,6 +38,8 @@ W celach testowych zostaną wykorzystane poniższe zbiory danych:
 - EMNIST
 - Breast Cancer Wisconsin
 
+Możliwe, że zostaną również wykorzystane inne zbiory danych oprócz tych.
+
 ## Podział pracy
 
 Etap 1 – dane i preprocessing
