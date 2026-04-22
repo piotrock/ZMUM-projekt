@@ -14,7 +14,7 @@ klasyfikator bez redukcji wymiarowości (Logistic Regression / SVM)
 
 ## Plan testowania
 ### Metody liniowe
-PCA + klasyfikator
+PCA + klasyfikator \\
 MDS + klasyfikator
 
 ### Metody nieliniowe
