@@ -73,9 +73,9 @@ Kasia:
 
 Implementacja klasyfikatorów oraz 
 porównanie:
-bez redukcji (baseline)
-z redukcją
-obliczenie accuracy
+bez użycia redukcji (baseline)
+oraz z redukcją - 
+obliczone zostanie Accuracy oraz AUC.
 
 Mikołaj – przygotowanie danych wejściowych do modeli
 Piotrek – analiza wyników i porównania między metodami
