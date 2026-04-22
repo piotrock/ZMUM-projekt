@@ -20,6 +20,8 @@ klasyfikator bez redukcji wymiarowości (Logistic Regression / SVM)
 - t-SNE
 - UMAP
 ### Metoda nadzorowana
--LDA
+- LDA
+
+  
 ## Dane
 Dane zostaną pobrane z bibliotek scikit-learn lub publicznych repozytoriów (np. MNIST).
