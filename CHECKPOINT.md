@@ -85,3 +85,13 @@ Na każdym etapie:
 Wszyscy uczestniczą w decyzjach (np. wybór parametrów),
 każdy robi code review fragmentów innych osób.
 Ostatecznie, wspólnie przygotowany zostanie raport końcowy.
+
+## Plan kamieni milowych
+
+Tydzień 1–2: przygotowanie danych i pipeline
+
+Tydzień 3–4: implementacja metod redukcji
+
+Tydzień 5–6: eksperymenty i porównania
+
+Tydzień 7: raport i wizualizacje
