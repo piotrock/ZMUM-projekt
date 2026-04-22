@@ -45,7 +45,7 @@ Etap 1 – dane i preprocessing
 Mikołaj:
 
 Wybrane i pobrane zostaną datasety (np. z scikit-learn).
-Przeprowadzona zostanie analiza danych (liczba cech, klasy, rozkłady).
+Przeprowadzona zostanie wstępna analiza danych (liczba cech, klasy, rozkłady).
 Następnie stworzony zostanie klasyczny pipeline w ML:
 - czyszczenie danych
 - normalizacja / standaryzacja
