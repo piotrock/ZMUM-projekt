@@ -6,12 +6,11 @@ Czy metody nieliniowe (t-SNE, UMAP) dają lepszą separację klas niż liniowe (
 Czy LDA jako metoda nadzorowana daje przewagę w zadaniach klasyfikacji?
 
 ## Metryki
-accuracy - dla danych
-
-silhouette score i trustworthiness - dla wizualizacji.
+- Accuracy oraz AUC dla klasyfikatorów opartych na danych w zredukowanym wymiarze.
+- Silhouette score i trustworthiness - dla wizualizacji i oceny separacji klas w wysokowymiarowej oraz zredukowanej przestrzeni.
 
 ## Baseline
-klasyfikator bez redukcji wymiarowości (Logistic Regression / SVM)
+Klasyfikator bez redukcji wymiarowości (Logistic Regression / SVM)
 
 ## Plan testowania
 
