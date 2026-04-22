@@ -46,7 +46,7 @@ Mikołaj:
 
 Wybrane i pobrane zostaną datasety (np. z scikit-learn).
 Przeprowadzona zostanie analiza danych (liczba cech, klasy, rozkłady).
-Następnie przeprowadzony zostanie klasyczny pipeline w ML:
+Następnie stworzony zostanie klasyczny pipeline w ML:
 - czyszczenie danych
 - normalizacja / standaryzacja
 
@@ -71,7 +71,7 @@ Etap 3 – klasyfikacja i ewaluacja
 
 Kasia:
 
-implementacja klasyfikatorów 
+Implementacja klasyfikatorów oraz 
 porównanie:
 bez redukcji (baseline)
 z redukcją
