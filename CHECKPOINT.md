@@ -6,7 +6,7 @@ Czy metody nieliniowe (t-SNE, UMAP) dają lepszą separację klas niż liniowe (
 Czy LDA jako metoda nadzorowana daje przewagę w zadaniach klasyfikacji?
 
 ## Metryki
-accuracy - dla danych; 
+accuracy - dla danych
 
 silhouette score i trustworthiness - dla wizualizacji.
 
@@ -23,10 +23,12 @@ Wykorzystane zostaną poniższe metody redukcji wymiarowości:
 ### Metody nieliniowe
 - t-SNE
 - UMAP
+- Kernel PCA
 ### Metoda nadzorowana
 - LDA
 
-W projekcie   
+
+W projekcie pokazane zostanie jak poszczególne metody redukcji wymiarowości wpływają na proces klasyfikacji.   
   
 ## Dane
 Dane zostaną pobrane z bibliotek scikit-learn lub publicznych repozytoriów (np. MNIST).
