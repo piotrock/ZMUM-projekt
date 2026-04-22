@@ -38,3 +38,50 @@ W celach testowych zostaną wykorzystane poniższe zbiory danych:
 - EMNIST
 - Breast Cancer Wisconsin
 
+## Podział pracy
+
+Etap 1 – dane i preprocessing
+
+Mikołaj:
+
+Wybrane i pobrane zostaną datasety (np. z scikit-learn).
+Przeprowadzona zostanie analiza danych (liczba cech, klasy, rozkłady).
+Następnie przeprowadzony zostanie klasyczny pipeline w ML:
+- czyszczenie danych
+- normalizacja / standaryzacja
+
+Piotrek – walidacja poprawności danych
+Kasia – przygotowanie podziału train/test
+
+Etap 2 – redukcja wymiarowości
+
+Piotrek:
+
+Zaimplementowane zostaną wymienione w planie testowania metody:
+- PCA, MDS
+- t-SNE, UMAP
+- LDA
+Dobór liczby wymiarów (np. 2D do wizualizacji + kilka wariantów)
+
+Mikołaj – integracja z pipeline’em danych
+Kasia – generowanie wizualizacji (2D wykresy)
+
+
+Etap 3 – klasyfikacja i ewaluacja
+
+Kasia:
+
+implementacja klasyfikatorów 
+porównanie:
+bez redukcji (baseline)
+z redukcją
+obliczenie accuracy
+
+Mikołaj – przygotowanie danych wejściowych do modeli
+Piotrek – analiza wyników i porównania między metodami
+
+Na każdym etapie:
+
+Wszyscy uczestniczą w decyzjach (np. wybór parametrów),
+każdy robi code review fragmentów innych osób.
+Ostatecznie, wspólnie przygotowany zostanie raport końcowy.
