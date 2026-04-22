@@ -16,6 +16,7 @@ klasyfikator bez redukcji wymiarowości (Logistic Regression / SVM)
 ### Metody liniowe
 PCA + klasyfikator
 MDS + klasyfikator
+
 ### Metody nieliniowe
 t-SNE + klasyfikator 
 UMAP + klasyfikator
