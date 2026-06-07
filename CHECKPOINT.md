@@ -18,13 +18,14 @@ Wykorzystane zostaną poniższe metody redukcji wymiarowości:
 
 ### Metody liniowe
 - PCA 
-- MDS 
+- Autoenkoder
+- LDA 
 ### Metody nieliniowe
 - t-SNE
 - UMAP
 - Kernel PCA
-### Metoda nadzorowana
-- LDA
+- Isomap
+- KernelLDA
 
 
 W projekcie pokazane zostanie jak poszczególne metody redukcji wymiarowości wpływają na proces klasyfikacji.   
