@@ -26,7 +26,7 @@ Wykorzystane zostaną poniższe metody redukcji wymiarowości:
 - Kernel PCA
 - Isomap
 - KernelLDA
-- MDA
+- MDS
 
 
 W projekcie pokazane zostanie jak poszczególne metody redukcji wymiarowości wpływają na proces klasyfikacji.   
@@ -38,6 +38,7 @@ W celach testowych zostaną wykorzystane poniższe zbiory danych:
 - Pima Indians Diabetes
 - Wine
 - MNIST
+- Digits
 - Sztucznie wygenerowane dane
 
 Możliwe, że zostaną również wykorzystane inne zbiory danych oprócz tych.
