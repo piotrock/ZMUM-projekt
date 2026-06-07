@@ -35,7 +35,7 @@ Dane zostaną pobrane z bibliotek scikit-learn lub publicznych repozytoriów (np
 
 W celach testowych zostaną wykorzystane poniższe zbiory danych:
 - Pima Indians Diabetes
-- South German Credit
+- Wine
 - EMNIST
 - Breast Cancer Wisconsin
 
