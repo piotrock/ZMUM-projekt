@@ -36,8 +36,7 @@ Dane zostaną pobrane z bibliotek scikit-learn lub publicznych repozytoriów (np
 W celach testowych zostaną wykorzystane poniższe zbiory danych:
 - Pima Indians Diabetes
 - Wine
-- EMNIST
-- Breast Cancer Wisconsin
+- MNIST
 
 Możliwe, że zostaną również wykorzystane inne zbiory danych oprócz tych.
 
